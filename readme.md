@@ -1,1 +1,2 @@
 git fetch : untuk ngecek commitnya sudah sampai mana jikalau kita danteman kita melakukan perubahan atau menambahkan file yang ssma namun isinya bisa saja berbeda
+git pull : untuk mengambil perubahan file yang ada di remote github
